@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Inigoliz&color=orange&style=flat-square&label=VISITOR+COUNT)
-
-My example:
-<img src=”https://komarev.com/ghpvc/?username=tomkax" alt=”tomkaX” />
+<img src="https://komarev.com/ghpvc/?username=Inigoliz&color=orange&style=flat-square&label=VISITOR+COUNT" alt=”tomkaX” />
 
 <!--
 **Inigoliz/Inigoliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
