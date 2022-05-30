@@ -4,7 +4,9 @@
   <img src="https://c.tenor.com/xuFoluWMaAoAAAAC/tenor.gif" alt=”Fire” />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Inigoliz&color=orange&style=flat-square&label=VISITOR+COUNT" alt=”tomkaX” />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Inigoliz&color=orange&style=flat-square&label=VISITOR+COUNT" alt=”tomkaX” />
+</p>
 
 <!--
 **Inigoliz/Inigoliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
