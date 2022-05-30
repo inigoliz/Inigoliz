@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="https://c.tenor.com/xuFoluWMaAoAAAAC/tenor.gif" alt=”Fire” />
+<p align="center">
+  <img src="https://c.tenor.com/xuFoluWMaAoAAAAC/tenor.gif" alt=”Fire” />
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=Inigoliz&color=orange&style=flat-square&label=VISITOR+COUNT" alt=”tomkaX” />
 
