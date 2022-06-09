@@ -1,7 +1,5 @@
 # Hi there 👋
 
-### From Quantum to 8-bit computers
-
 <p align="center">
   <img src="https://c.tenor.com/xuFoluWMaAoAAAAC/tenor.gif" alt=”Fire” />
 </p>
