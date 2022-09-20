@@ -8,11 +8,12 @@
   <img src="https://www.screamhorrormag.com/wp-content/uploads/2019/08/New-Trailer-for-Bliss.png" alt=”Bliss” />
 </p>
 
+
+<!--
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Inigoliz&color=orange&style=flat-square&label=VISITOR+COUNT" alt=”tomkaX” />
 </p>
 
-<!--
 **Inigoliz/Inigoliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
