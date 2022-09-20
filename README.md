@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https%3A%2F%2Fwww.screamhorrormag.com%2Fwp-content%2Fuploads%2F2019%2F08%2FNew-Trailer-for-Bliss.png" alt=”Fire” />
+  <img src="[https%3A%2F%2Fwww.screamhorrormag.com%2Fwp-content%2Fuploads%2F2019%2F08%2FNew-Trailer-for-Bliss.png](https://www.screamhorrormag.com/wp-content/uploads/2019/08/New-Trailer-for-Bliss.png)" alt=”Fire” />
 </p>
 
 <p align="right">
